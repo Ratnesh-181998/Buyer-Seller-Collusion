@@ -17,13 +17,16 @@ comparisons with other (re)sellers offering the same catalog specifications.
 
 <img width="2209" height="1180" alt="image" src="https://github.com/user-attachments/assets/c7eaf27b-8e14-45a7-8274-546ab7db0a59" />
 
+
 Data: 
+
 To build this solution, required data consist of 
 • Buyer Details  
 • Seller Details 
 • Product / Variant Details 
 • Bid Details 
 • Transaction Details
+
 
 <img width="805" height="750" alt="image" src="https://github.com/user-attachments/assets/24fe0fb3-d56f-4b4f-8f75-f378406e201e" />
 
